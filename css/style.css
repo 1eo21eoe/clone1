@@ -59,11 +59,12 @@ button {
 
 ul {
   margin-top: 30px;
-  width: 30%;
+  width: 20%;
 }
 
 li {
   font-size: 30px;
+  list-style: none;
 }
 
 img {
